@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes/>
+      <pos x="1020" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_ADDER_SUBTRACTOR.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>SIMPLE</shapeType>
+        </entry>
+      </elementAttributes>
+      <pos x="660" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_SUBTRACTOR.dig</elementName>
+      <elementAttributes/>
+      <pos x="660" y="140"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_MULTIPLIER.dig</elementName>
+      <elementAttributes/>
+      <pos x="660" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_DECREMENTER.dig</elementName>
+      <elementAttributes/>
+      <pos x="660" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_RIPPLE_ADDER.dig</elementName>
+      <elementAttributes/>
+      <pos x="660" y="60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8_BIT_INCREMENTER.dig</elementName>
+      <elementAttributes/>
+      <pos x="660" y="220"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
