@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>P</string>
+        </entry>
+      </elementAttributes>
+      <pos x="380" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>CAS_UNIT.dig</elementName>
+      <elementAttributes/>
+      <pos x="600" y="260"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="380" y="260"/>
+      <p2 x="600" y="260"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
